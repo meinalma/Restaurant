@@ -1,2 +1,2 @@
-#A website for restaurant
-My first github page.
+#MyWebsite
+My first github page, a website for a restaurant.
